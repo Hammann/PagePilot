@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "PagePilot - Reading Tool",
+    "version": "1.0",
+    "description": "Left click and hold on a line to highlight it. Use the arrows keys to highlight the next or previous line.",
+    "permissions": ["scripting", "activeTab"],
+    "author": "Branden Hammann",
+    "icons": {
+      "16": "PagePilotLogo16.png",
+      "48": "PagePilotLogo48.png",
+      "128": "PagePilotLogo128.png"
+},
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["content.js"]
+      }
+    ]
+  }
+  
