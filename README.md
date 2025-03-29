@@ -19,9 +19,19 @@ PagePilot helps you focus and move through text, one line at a time.
 
 
 Manual steps to add to chrome: 
-1. Download the .zip file by going here: https://github.com/Hammann/PagePilot/blob/main/PagePilot.zipr, clicking on the three vertical dots in the top right, and then selecting download
+1. Download the .zip file by going here: https://github.com/Hammann/PagePilot/blob/main/PagePilot.zip, clicking on the three vertical dots in the top right, and then selecting download
+<img width="386" alt="image" src="https://github.com/user-attachments/assets/0233f83a-85e4-4710-831b-b2d41b1508d6" />
+
 2. Right click the downloaded zip and extract it
-3. Go to chrome://extensions
-4. Click Load Unpacked
-5. Select the folder that you extracted the .zip file to
-6. Enjoy!
+<img width="365" alt="image" src="https://github.com/user-attachments/assets/2c5c6373-ed11-4992-83c7-74bbca6de256" />
+
+3. Navigate to edge://extensions/ if using edge or chrome://extensions/ if using chrome
+   
+![image](https://github.com/user-attachments/assets/a00c85c6-0db2-4920-bd67-d17f3073c99a)
+
+5. Click Load Unpacked
+<img width="614" alt="image" src="https://github.com/user-attachments/assets/a632d96e-5a11-4583-a970-646bd7e63721" />
+
+6. Select the folder that you extracted the .zip file to
+
+7. Enjoy!
