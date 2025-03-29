@@ -16,3 +16,12 @@ PagePilot helps you focus and move through text, one line at a time.
 🧭 Works on most websites, articles, and structured pages
 
 ⚙️ Lightweight, fast, and doesn’t track anything
+
+
+Manual steps to add to chrome: 
+1. Download the .zip file by going here: https://github.com/Hammann/PagePilot/blob/main/PagePilot.zipr, clicking on the three vertical dots in the top right, and then selecting download
+2. Right click the downloaded zip and extract it
+3. Go to chrome://extensions
+4. Click Load Unpacked
+5. Select the folder that you extracted the .zip file to
+6. Enjoy!
